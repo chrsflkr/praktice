@@ -1,0 +1,19 @@
+
+
+div.color-blue > p {
+   background-color: bisque;
+   color: darkblue;
+}
+
+
+div.color-black >.color-black {
+   color: black;
+}
+
+div {
+   color: red;
+}
+
+p {
+   color: green;
+}
